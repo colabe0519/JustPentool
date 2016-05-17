@@ -1,0 +1,33 @@
+.searchbar {
+  width: 20%;
+}
+
+@media only screen and (max-width: 980px) {
+  .searchbar {
+        width: 33% !important;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .searchbar {
+        width: 40% !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .searchbar {
+        width: 50% !important;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .searchbar {
+        width: 50% !important;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .searchbar {
+        width: 80% !important;
+  }
+}

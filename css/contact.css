@@ -1,0 +1,14 @@
+.sendbutton {
+    width: 127px;
+    line-height: 28px;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+#googleMap {
+  margin-top: 8px;
+}
+
+.messagefrom {
+  margin-bottom: 8px;
+}

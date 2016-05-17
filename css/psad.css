@@ -1,0 +1,25 @@
+body {
+  overflow: hidden;
+}
+
+footer {
+  overflow: hidden;
+}
+
+.testline {
+  /*margin-top: 90px;*/
+}
+.testline img {
+  width:40%; 
+}
+
+.hidden {
+     display:none;
+}
+
+#sectiontohide, #sectiontohide2, #sectiontohide3, #sectiontohide4, #sectiontohide5, #sectiontohide6, #sectiontohide7, #sectiontohide8, #sectiontohide9 {
+  padding:20px;
+  background:#f0f0f0;
+  width:400px;
+  display: none;
+}

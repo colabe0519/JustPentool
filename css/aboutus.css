@@ -1,0 +1,46 @@
+@media only screen and (max-width: 767px) {
+    .row {
+        margin-right: 200px !important;
+        margin-left: 200px !important;
+    }
+    .row img {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .row {
+        margin-right: 100px !important;
+        margin-left: 100px !important;
+    }
+    .row img {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .row {
+        margin-right: 50px !important;
+        margin-left: 50px !important;
+    }
+    .row img {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .row {
+        margin-right: 25px !important;
+        margin-left: 25px !important;
+    }
+    .row img {
+        margin-bottom: 50px;
+    }
+}
+
+/*.macimage {
+    padding-top: 90px;
+    padding-left: 0 auto;
+    padding-right: 0 auto;
+    width: 25%;
+}*/
